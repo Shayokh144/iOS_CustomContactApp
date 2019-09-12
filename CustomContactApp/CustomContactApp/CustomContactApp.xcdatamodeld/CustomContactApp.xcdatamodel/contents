@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ContactData" representedClassName="ContactData" syncable="YES" codeGenerationType="class">
+        <attribute name="cBatchNO" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cBloodGroup" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cDateOfBirth" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cDesignation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cEmail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cGradationNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cHomeDistrict" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cHomeLandPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cImageData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="cImageLink" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cJoiningDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cOfficeLandPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cOfficeMobile" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cPersonalMobile" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cPresentPost" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cServiceId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cWorkPlace" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userFavoutiteKey" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ContactData" positionX="-63" positionY="-18" width="128" height="330"/>
+    </elements>
+</model>
